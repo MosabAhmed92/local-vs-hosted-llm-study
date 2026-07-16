@@ -1,6 +1,6 @@
 .env
 .webiu_secret_key
-__pycache__/
+__pycache__
 *.pyc
 *.pyo
 venv/
@@ -12,5 +12,11 @@ env/
 *.csv
 !summarized_df.csv
 *.png
+!ArchitectureDiagram.png
 *.pdf
 *.ipynb
+
+concepts.md
+concepts.pdf
+docker-compose-reference.md
+docker-compose-reference.png
