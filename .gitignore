@@ -1,0 +1,16 @@
+.env
+.webiu_secret_key
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.venv/
+env/
+.vscode/
+.idea/
+*.swp
+*.csv
+!summarized_df.csv
+*.png
+*.pdf
+*.ipynb
